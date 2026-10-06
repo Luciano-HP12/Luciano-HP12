@@ -108,7 +108,7 @@ despliegue.
 ## 🤝 Conecta conmigo
 
 <p>
-  <a href="www.linkedin.com/in/eusebio-luciano-huallparimachi-pizarro-52a891417/">
+  <a href="https://www.linkedin.com/in/eusebio-luciano-huallparimachi-pizarro-52a891417/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
