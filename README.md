@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy </h1>
+<h1 align="center">👋 Hola, soy Luciano</h1>
 
 <h3 align="center">
   Estudiante de Ingeniería de Sistemas e Informática | Desarrollo de Software
