@@ -6,7 +6,7 @@
 
 <p align="center">
   Construyendo proyectos y fortaleciendo mis habilidades en desarrollo web,
-  backend y bases de datos.
+  
 </p>
 
 ---
