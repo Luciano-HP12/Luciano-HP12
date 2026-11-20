@@ -1,114 +1,92 @@
 <h1 align="center">👋 Hola, soy Luciano</h1>
 
-<h3 align="center">
-  Estudiante de Ingeniería de Sistemas e Informática | Desarrollo de Software
-</h3>
+<p align="center">
+  <strong>Estudiante de Ingeniería de Sistemas e Informática</strong><br>
+  Análisis de Sistemas · Diseño de Soluciones TI · Desarrollo de Software
+</p>
 
 <p align="center">
-  Construyendo proyectos y fortaleciendo mis habilidades en desarrollo web,
-  backend y bases de datos.
+  Me interesa comprender los problemas de las organizaciones y transformarlos en soluciones tecnológicas útiles, desde el análisis y el diseño hasta la implementación.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eusebio-luciano-huallparimachi-pizarro-52a891417/">LinkedIn</a> ·
+  <a href="https://github.com/Luciano-HP12">GitHub</a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Estudiante de **Ingeniería de Sistemas e Informática**.
-
-💻 Interesado en el **desarrollo de software y aplicaciones web**.
-
-🚀 Actualmente desarrollo proyectos prácticos para fortalecer mis conocimientos
-en frontend, backend, bases de datos y despliegue de aplicaciones.
-
-🧠 Me interesa comprender cómo funcionan las aplicaciones de principio a fin:
-desde la interfaz y la lógica de negocio hasta las APIs, bases de datos,
-arquitectura y despliegue.
-
-🎯 Actualmente me preparo para asumir nuevos retos y oportunidades de
-**prácticas preprofesionales en tecnología**.
-
----
+- 🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Tecnológica del Perú.
+- 🔎 Interesado en **análisis de necesidades, reglas de negocio, diseño de sistemas y soluciones empresariales**.
+- 💻 Experiencia práctica en proyectos de desarrollo web, aplicaciones full stack, bases de datos y despliegue.
+- 🤝 He coordinado actividades y apoyado a compañeros en el uso de GitHub durante proyectos académicos.
+- 🎯 Busco oportunidades de **prácticas preprofesionales** en análisis de sistemas, análisis funcional, soluciones TI y desarrollo de software.
 
 ## 🛠️ Tecnologías y herramientas
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-</p>
-
-### Bases de datos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
-</p>
-
-### Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
+| Área | Conocimientos y herramientas |
+| --- | --- |
+| **Análisis y diseño** | Identificación de necesidades, definición de funcionalidades, reglas de negocio y modelado de datos |
+| **Frontend** | HTML, CSS, JavaScript, React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express, APIs REST; conocimientos de TypeScript y PHP |
+| **Datos** | PostgreSQL, MySQL, Prisma ORM |
+| **CMS y despliegue** | WordPress, Payload CMS, Vercel |
+| **Colaboración** | Git, GitHub, VS Code |
+| **IA aplicada** | ChatGPT, OpenAI Codex y Claude como apoyo para investigar, programar, revisar y documentar, verificando los resultados |
 
 ## 🚀 Proyectos destacados
 
-### 📋 TaskFlow
+### 🚛 Grúas A&G — Sitio web empresarial
 
-Aplicación web **full-stack** para la gestión de tareas, desarrollada para
-poner en práctica la construcción de APIs, autenticación, persistencia de
-datos y desarrollo frontend.
+Diseñé, desarrollé y publiqué un sitio web para un negocio real de grúas y auxilio vehicular en Lima Metropolitana. Trabajé en la presentación de sus servicios, canales de contacto, despliegue, dominio y mejoras de SEO técnico.
 
-**Tecnologías:** React · Node.js · Express · PostgreSQL · Prisma
+**Tecnologías:** HTML · CSS · JavaScript · Git/GitHub
 
-🔗 [Ver repositorio](https://github.com/Luciano-HP12/TaskFlow)
+🔗 [Ver sitio publicado](https://www.gruasayg.com/)
 
----
+### 🍗 SaborWeb — Sitio comercial para pollería
 
-### 📦 Inventory App
+Desarrollé una solución web comercial con catálogo de productos, precios, imágenes y contacto por WhatsApp. Integra un CMS desacoplado para gestionar contenidos sin modificar la estructura visual.
 
-Sistema de **gestión de inventario** orientado a pequeños negocios, diseñado
-para gestionar productos, existencias, ventas y otras operaciones del negocio.
+**Tecnologías:** Next.js · React · TypeScript · Payload CMS
 
-Proyecto actualmente en desarrollo y evolución.
+🔗 [Ver sitio publicado](https://saborweb-production.up.railway.app/)
 
-🔗 [Ver repositorio](https://github.com/Luciano-HP12/inventory-app)
+### 📋 TaskFlow — Gestión de tareas
 
----
+Aplicación web full stack para administrar tareas y categorías por usuario, con autenticación, API REST y persistencia de información.
 
-### 🌎 Andes Travel
+**Tecnologías:** React · Node.js · Express · PostgreSQL · Prisma ORM · JWT
 
-Proyecto web orientado al sector turístico desarrollado con **WordPress**,
-incluyendo configuración del entorno, base de datos, personalización y
-despliegue.
+🔗 [Demostración](https://taskflow-awc5.onrender.com/) · [Repositorio](https://github.com/Luciano-HP12/TaskFlow)
+
+### 📦 Inventory App — Gestión de inventarios SaaS
+
+Proyecto personal **en desarrollo** orientado a la gestión de inventarios para negocios. Trabajo en reglas de negocio, suscripciones, permisos, arquitectura multiempresa, modelado de datos y validaciones.
+
+**Tecnologías:** TypeScript · Node.js · PostgreSQL · Prisma ORM
+
+🔗 [Repositorio](https://github.com/Luciano-HP12/inventory-app)
+
+### 🌎 AndesTravel — Sitio turístico con WordPress
+
+Proyecto web turístico con presentación de destinos y tours y personalización de contenidos. Desarrollado y probado en un entorno local.
 
 **Tecnologías:** WordPress · PHP · MySQL · HTML · CSS · JavaScript
 
-🔗 [Ver repositorio](https://github.com/Luciano-HP12/andes-travel-wordpress)
+🔗 [Repositorio](https://github.com/Luciano-HP12/andes-travel-wordpress)
 
----
+## 🤝 Trabajo en equipo
 
-## 📚 Actualmente aprendiendo
+En un proyecto académico de reservas de salas para eventos, coordiné la distribución de tareas, orienté a mis compañeros en el uso de GitHub y participé en el desarrollo y despliegue del sitio.
 
-- Desarrollo de aplicaciones **full-stack**
-- Diseño y consumo de **APIs REST**
-- Modelado y gestión de **bases de datos**
-- Arquitectura y buenas prácticas de desarrollo de software
-- Flujos de trabajo con Git y GitHub
-- Despliegue de aplicaciones
+🔗 [Ver proyecto académico](https://herramientas-de-desarrollo-web.github.io/Proyecto_HerramientasDeDesarrolloWeb/reservas.html)
 
----
+## 📫 Contacto
 
-## 🤝 Conecta conmigo
+- [LinkedIn profesional](https://www.linkedin.com/in/eusebio-luciano-huallparimachi-pizarro-52a891417/)
+- [Mis repositorios en GitHub](https://github.com/Luciano-HP12?tab=repositories)
 
-<p>
-  <a href="https://www.linkedin.com/in/eusebio-luciano-huallparimachi-pizarro-52a891417/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+> Estoy abierto a oportunidades de prácticas preprofesionales y a seguir aprendiendo mediante proyectos con desafíos reales.
